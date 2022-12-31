@@ -1,0 +1,62 @@
+
+.rightalign{
+	text-align: right;
+}
+#topimage{
+	width:50%px;  height:250px;
+}
+#firstparag{
+	height:200px;
+}
+#interiorp{
+	text-align:center;
+}
+.purchase{
+background-color:green;
+}
+.imagecard{
+width:280px; height:240px;
+}
+.purchase{
+	text-align:center;
+	border:1px sloid black;
+	background-color:green;
+	height:24px;
+	font-size:22px;
+    margin-top:0px;
+    font-family:Sans-serif;
+    color:black;
+}
+#contact{
+	font-size:30px; color:green;
+}
+#features{
+	font-size:30px; color:green;
+}
+.list{
+	font-size:20px;
+	color:green;
+}
+
+.increase{
+	width: 50%;
+	padding: 12px  15px;
+	margin: 8px 0;
+	font-size:18pt;
+}
+#form{
+	position:absolute;
+	left:27%;
+	top:20%;
+}
+h1{		text-align:center;		}
+.btn{
+	width:100px;
+	height:50px;
+}
+.inline{
+	display:inline-block;
+	color:blue;
+	font-weight:bold;
+	text-decoration:none;
+}
